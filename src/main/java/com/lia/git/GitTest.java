@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("至少亿张！！！");
         System.out.println("鸡酱法？不给！");
         System.out.println("push kun");
+         System.out.println("pull kun");
     }
 
 }
