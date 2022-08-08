@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("小黑子，什么意思？");
         System.out.println("至少亿张！！！");
         System.out.println("鸡酱法？不给！");
+        System.out.println("push kun");
     }
 
 }
